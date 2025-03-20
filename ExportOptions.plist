@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://drive.google.com/uc?export=download&id=1ipsf12glC3fx8A8bKkn0cMPhB6vJBeqJ</string>
+		<key>displayImageURL</key>
+		<string>https://sadaqatdev.github.io/joistie/72.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://sadaqatdev.github.io/joistie/512.png</string>
+	</dict>
+	<key>method</key>
+	<string>debugging</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>L5C2G7RBPG</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
